@@ -9,4 +9,4 @@ This code and documents are shared for educational and illustrative purposes onl
 You are responsible for reviewing and testing the code before deploying it in any environment.
 
 
-Matteo Stefanini
+Matteo Stefanini & Aldeghi Richard
